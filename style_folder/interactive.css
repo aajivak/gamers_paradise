@@ -1,0 +1,21 @@
+.list_navigation:hover{
+    border-bottom: solid #fb5947;   
+}
+
+a:hover{
+    color: #fb5947;
+    font-size: 20px;
+    transition: 0.3;
+    transition-timing-function: ease-in-out;
+}
+
+.btn_navigation:hover{
+    height: 2.3rem;
+    width: 5.6rem;
+    color: #fb5947;
+    background-color: #012b3700;
+    font-size: 20px;
+    transition:0.3s;
+    transition-timing-function: ease-in-out;
+    border: solid 3px;
+}
