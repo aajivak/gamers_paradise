@@ -64,7 +64,7 @@ a {
 .main_head_d{
     display: flex;
     justify-content: end;
-    margin-top: 18rem;
+    margin-top: 13rem;
     margin-left: 29vw;
 }
 
@@ -73,4 +73,66 @@ a {
     font-family: 'poppins', sans-serif;
     font-size: 80px;
     background-color: rgba(0, 0, 0, 0.407);
+    width: 62rem;
+    padding-left: 3rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.sub_head{
+    font-family: 'poppins', sans-serif;
+    font-size: 25px;
+    color: #ece3da;
+    text-align: right;
+    margin-left: 30vw;
+    margin-right: 3vw;
+    
+}
+
+.topic_first{
+    margin-top: 18rem;
+}
+
+.topic_first_head{
+    font-size: 60px;
+    font-family: 'poppins', sans-serif;
+    color: aliceblue;
+    font-weight: 500;
+    margin-left: 10vw;
+}
+.topic_first_info{
+    font-size: 20px;
+    font-family: 'poppins', sans-serif;
+    color: aliceblue;
+    margin-left: 15vw;
+    margin-right: 60vw;
+    margin-top: 4rem;
+}
+
+.i1{
+    height: 10rem;
+    width: 10rem;
+    background-color: blue;
+}
+.i2{
+    height: 10rem;
+    width: 10rem;
+    background-color: blue;
+}
+.i3{
+    height: 10rem;
+    width: 10rem;
+    background-color: blue;
+}
+.i4{
+    height: 10rem;
+    width: 10rem;
+    background-color: blue;
+}
+
+.topic_first_image_d{
+    display: flex;
+justify-content: end;
+margin-right: 6vw;
+margin-top: -12rem;
 }
